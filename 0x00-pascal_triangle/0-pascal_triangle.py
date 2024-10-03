@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 """
 solved pascal triangle task
 while efficiently handled error cases
