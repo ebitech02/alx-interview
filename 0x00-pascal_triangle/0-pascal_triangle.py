@@ -3,7 +3,9 @@ solved pascal triangle task
 while efficiently handled error cases
 """
 
+
 def pascal_triangle(n):
+
     """
     Returns a list of lists representing Pascal's Triangle up to level n.
     Handles cases where n is not a valid integer using try-except.
